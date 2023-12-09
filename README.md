@@ -11,6 +11,6 @@ I'm Anar, a Java developer with a passion for continuous learning and exploring 
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/iamusayev/)
+iamusayev (Telegram)
 
 Thanks for visiting my profile, and happy coding! Feel free to write to me if you have any questions or if there's anything I can help you with.
